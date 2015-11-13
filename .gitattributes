@@ -1,0 +1,5 @@
+# Ignore all tests and documentation with "export-ignore"
+/.gitattributes
+/.gitignore
+/phpunit.xml
+/tests
