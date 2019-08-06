@@ -1,3 +1,5 @@
+# This package has been abandoned and is no longer maintained.
+
 # Caffeinated Slugs
 [![Laravel](https://img.shields.io/badge/Laravel-5.2-orange.svg?style=flat-square)](http://laravel.com)
 [![Source](http://img.shields.io/badge/source-caffeinated/slugs-blue.svg?style=flat-square)](https://github.com/caffeinated/slugs)
